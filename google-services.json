@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "776620448396",
+    "firebase_url": "https://instagrach-3953a.firebaseio.com",
+    "project_id": "instagrach-3953a",
+    "storage_bucket": "instagrach-3953a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:776620448396:android:ab6a412910fcdf86",
+        "android_client_info": {
+          "package_name": "ru.myandroid.garred.instagrach"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "776620448396-948h51n2163gv4249icjoflbh5ubouo3.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "ru.myandroid.garred.instagrach",
+            "certificate_hash": "be4718db7680de396bfcf0c33a8e944cad455288"
+          }
+        },
+        {
+          "client_id": "776620448396-vp2r63m76lqf6emlr2cmrp3kd34fq03s.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAdmwRf9CuNj1tazNrn0ZCgsT9WAZTNEQk"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "776620448396-vp2r63m76lqf6emlr2cmrp3kd34fq03s.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
